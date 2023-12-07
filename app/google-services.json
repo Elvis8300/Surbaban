@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1019522291495",
+    "firebase_url": "https://surbaban-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "surbaban-ecommerce",
+    "storage_bucket": "surbaban-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019522291495:android:9f5ae4654e0c45a762bb02",
+        "android_client_info": {
+          "package_name": "com.example.surbaban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MfKq8yf2-lTYxuNueNS7VAU4HDgJSDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
